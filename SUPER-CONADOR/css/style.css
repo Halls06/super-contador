@@ -1,0 +1,28 @@
+* {
+    margin: auto;
+    padding: auto;
+}
+
+body {
+    background: #014126;
+}
+
+header {
+    color: #fff;
+    text-align: center;
+}
+
+section {
+    background: #fff;
+    font: 700 15pt Arial;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.384);
+}
+footer {
+    color: #fff;
+    font: normal 15pt Arial;
+    text-align: center;
+}
+
